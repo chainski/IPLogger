@@ -1,8 +1,8 @@
 <p align= "center">
-<img src="https://img.shields.io/github/stars/Chainski/IPLogger?style=flat&color=blue"></a>
-<img src="https://hits.sh/github.com/Chainski/IPLogger.svg?label=views&color=blue"></a>
-<img src="https://img.shields.io/github/languages/top/Chainski/IPLogger?style=flat&color=blue"></a> 
-<img src="https://img.shields.io/github/license/Chainski/IPLogger?style=flat&color=blue"></a> 
+<img src="https://img.shields.io/github/stars/Chainski/IPLogger?style=flat&color=black"></a>
+<img src="https://hits.sh/github.com/Chainski/IPLogger.svg?label=views&color=black"></a>
+<img src="https://img.shields.io/github/languages/top/Chainski/IPLogger?style=flat&color=black"></a> 
+<img src="https://img.shields.io/github/license/Chainski/IPLogger?style=flat&color=black"></a> 
 </p>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Chainski/IPLogger/refs/heads/main/assets/iplogger.png", width="400", height="400">
