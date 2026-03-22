@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/license/Chainski/IPLogger?style=flat&color=black"></a> 
 </p>
 <div align="center">
-<img src="https://raw.githubusercontent.com/Chainski/IPLogger/refs/heads/main/assets/iplogger.png", width="400", height="400">
+<img src="https://raw.githubusercontent.com/Chainski/IPLogger/refs/heads/main/assets/iplogger.png", width="420", height="420">
 </div>
 
 # IPLogger
